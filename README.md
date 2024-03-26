@@ -22,7 +22,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mohmmed-abdel-rashid-ibrahim-mohamed-637179262/" target="_blank"><img src="https://img.shields.io/badge/-Muhammad Abdel Rashid -0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
+<a href="https://www.facebook.com/mohmmed.abdo.71653?mibextid=9R9pXO" target="_blank"><img src="https://img.shields.io/badge/-Muhammad Abdel Rashid -0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -31,6 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=sass)&nbsp;
 
 
 
